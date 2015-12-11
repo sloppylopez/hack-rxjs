@@ -6,6 +6,6 @@
     it's practically a 'Hello World' using RxJS
     
 ###How to run?
-    Just run ```index.html``` in a browser.
+    Just run index.html in a browser.
     
     
