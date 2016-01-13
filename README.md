@@ -39,3 +39,7 @@ Add here other resources.
  
 
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/sloppylopez/hack-rxjs/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
